@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React, Python
 - 💞️ I’m looking to collaborate on - Game support websites which can be made using React or Python
 - 📫 How to reach me : 
-          Mail: Harsha9726@gmail.com
           Linkedin : https://www.linkedin.com/in/harsha-bodeddula-aa963514b/
 
 <!---
